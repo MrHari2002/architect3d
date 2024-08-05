@@ -3,6 +3,8 @@
   "version": "0.1.0",
   "description": "This is the core framework of architect3d for creating floorplans in 2d and 3d",
   "main": "build/js/bp3djs.js",
+  "type": "module",
+
   "scripts": {
     "build": "rollup -c",
     "dev": "rollup -c -w",
